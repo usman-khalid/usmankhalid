@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Pages on Usman Khalid</title>
+    <link>/pages/</link>
+    <description>Recent content in Pages on Usman Khalid</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/pages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>As far back as I can remember, I&amp;rsquo;ve always been interested in creating experiences on the web. When I was in high school, I took a media communications class and decided to make a website for an assignment. I loved the idea of creating something that people could see, interact with and use online. I remember using Adobe Dreamweaver and using layers to visually drag and drop elements on a page (not knowing that this was positioning everything absolutely) and it would break outside of that specific screen size.</description>
+    </item>
+    
+  </channel>
+</rss>
