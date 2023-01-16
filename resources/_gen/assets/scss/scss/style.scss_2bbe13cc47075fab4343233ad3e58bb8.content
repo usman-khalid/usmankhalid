@@ -274,7 +274,7 @@ ul {
     color: #fff;
     padding: 0 2px; }
   .intro .tags li {
-    margin-right: 10px;
+    margin-right: 5px;
     display: inline-block;
     text-transform: uppercase;
     margin-bottom: 16px; }
