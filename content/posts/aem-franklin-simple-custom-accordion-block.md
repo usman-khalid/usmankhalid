@@ -1,7 +1,7 @@
 ---
 title: AEM Franklin — creating a simple custom accordion block
 date: 2023-04-11
-description: In this place, we'll go over the process to create a simple accordion block in Franklin.
+description: In this post, we'll go over the process to create a simple accordion block in Franklin.
 tags: ["AEM", "Franklin", "Helix"]
 ---
 
