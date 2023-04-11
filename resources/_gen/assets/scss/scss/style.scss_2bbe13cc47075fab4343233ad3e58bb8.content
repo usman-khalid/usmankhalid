@@ -179,7 +179,7 @@ ul {
     .content ul li,
     .content ol li {
       font-size: 18px;
-      line-height: 20px;
+      line-height: 1.6;
       margin-bottom: 10px;
       margin-left: 15px; }
       @media (min-width: 767px) {
