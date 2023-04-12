@@ -17,7 +17,7 @@ From the [FAQs](https://www.hlx.live/docs/faq):
 
 ## Creating a custom block
 
-In this post, we'll take a look at how we can set up a simple new reusable block to create accordions on a Franklin website.
+Let's create a custom Accordion block that we can use to create interactive content across a website.
 
 ### Authoring the content
 
