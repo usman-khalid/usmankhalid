@@ -21,7 +21,7 @@ Let's create a custom Accordion block that we can use to create interactive cont
 
 ### Authoring the content
 
-Let's set up the structure of our content. It may look something like this:
+Let's set up the structure of our content. It may look something like this in the google doc used to author content:
 
 ![AEM Franklin sample accordion content](/images/posts/aem-franklin-simple-custom-accordion-block/franklin-accordion-sample-content.png)
 
