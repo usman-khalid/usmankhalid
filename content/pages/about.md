@@ -12,4 +12,4 @@ As far back as I can remember, I've always been interested in creating digital e
 
 When I'm not typing on a keyboard, I enjoy sports, music & food.
 
-I live in Ontario with my wife and son.
+I live in Ontario with my wife and two sons.
