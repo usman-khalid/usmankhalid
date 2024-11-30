@@ -1,9 +1,9 @@
 ---
-title: Eater of food. Maker of things
+title: Breaking ground on the groundbreaking
 ---
 
-Hello — I'm Usman Khalid, a developer based out of Ontario, Canada. I'm currently working as an AEM/EDS Architect at [Adobe](https://adobe.com), helping customers build cool digital experiences. I enjoy lighthouse scores above 99, accessible navigations and simplicity in general.
+Hello — I'm Usman Khalid, a developer based out of Ontario, Canada. I'm currently working as a Technical Architect at [Adobe](https://adobe.com), primarily building cool things with [Edge Delivery Services (EDS)](https://www.aem.live/) & AEM. I enjoy lighthouse scores above 99, accessible navigations and simplicity in general.
 
 Occasionally, I [write](/posts).
  
-Let's chat. [Say hello](mailto:usman.khalid@live.ca).
+[Say hello](mailto:usman.khalid@live.ca).
