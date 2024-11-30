@@ -2,9 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Usman Khalid</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Usman Khalid</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AEM</title>
+      <link>//localhost:1313/tags/aem/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/aem/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Franklin</title>
+      <link>//localhost:1313/tags/franklin/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/franklin/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Helix</title>
+      <link>//localhost:1313/tags/helix/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/helix/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Authoring</title>
+      <link>//localhost:1313/tags/authoring/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/authoring/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Granite</title>
+      <link>//localhost:1313/tags/granite/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/granite/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>RTE</title>
+      <link>//localhost:1313/tags/rte/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/rte/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Adobe</title>
+      <link>//localhost:1313/tags/adobe/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/adobe/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Asset Compute Service</title>
+      <link>//localhost:1313/tags/asset-compute-service/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/asset-compute-service/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Azure Cognitive Services</title>
+      <link>//localhost:1313/tags/azure-cognitive-services/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/tags/azure-cognitive-services/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

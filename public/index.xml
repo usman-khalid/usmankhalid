@@ -1,29 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tennis Player. Cricket Watcher. Thing Maker on Usman Khalid</title>
-    <link>/</link>
-    <description>Recent content in Tennis Player. Cricket Watcher. Thing Maker on Usman Khalid</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <title>Eater of food. Maker of things on Usman Khalid</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content in Eater of food. Maker of things on Usman Khalid</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Creating content aware asset renditions for AEM using Asset Compute Service &amp; Azure Cognitive Services</title>
-      <link>/posts/aem-content-aware-renditions/</link>
+      <title>AEM Franklin — creating a simple custom accordion block</title>
+      <link>//localhost:1313/posts/aem-franklin-simple-custom-accordion-block/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/aem-franklin-simple-custom-accordion-block/</guid>
+      <description>&lt;h2 id=&#34;what-is-franklin&#34;&gt;What is Franklin?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.hlx.live/home&#34;&gt;AEM Franklin&lt;/a&gt; is a new product by Adobe, still in an early beta stage. It&amp;rsquo;s marketed as a lightweight framework, providing the ability to create sites that are fast, quick to set up with an interesting and easy way to author content via Google docs.&lt;/p&gt;&#xA;&lt;p&gt;AEM Franklin uses the concept of &lt;em&gt;blocks&lt;/em&gt; which is the equivalent of components in this lightweight framework. A block is simply a reusable piece that can be used across the website on different pages.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Integrating a typing assistant with AEM to provide grammar suggestions during content creation</title>
+      <link>//localhost:1313/posts/aem-rte-grammarly-integration/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/aem-rte-grammarly-integration/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.grammarly.com/grammar-check&#34;&gt;Grammarly&lt;/a&gt; is a service that hooks up to an &lt;code&gt;input&lt;/code&gt; or &lt;code&gt;textarea&lt;/code&gt; on a page and provides suggestions on the content&amp;rsquo;s grammar. This makes for a neat little integration with the AEM Text/RTE component. This can be added on to the &lt;a href=&#34;https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/text.html&#34;&gt;WCM Core Text component&lt;/a&gt; or any component that uses an RTE.&lt;/p&gt;&#xA;&lt;h2 id=&#34;create-the-editor-clientlib&#34;&gt;Create the editor clientlib&lt;/h2&gt;&#xA;&lt;p&gt;First thing we need is a clientlib we can load into the AEM page editor.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Creating content aware renditions for AEM assets using Asset Compute Service &amp; Azure Cognitive Services</title>
+      <link>//localhost:1313/posts/aem-content-aware-renditions/</link>
       <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/aem-content-aware-renditions/</guid>
-      <description>Asset renditions are an important piece of the DAM in Adobe Experience Manager. Out of the box, AEM creates a few renditions for each asset that is uploaded. These can be used for different viewports and devices or as thumbnails. However, what if we wanted to create a blurred or grayscale rendition for an asset? These are some simple use cases, but with Adobe’s asset compute service, we can extend the out of the box functionality to handle them and go even further to implement more complex scenarios.</description>
+      <guid>//localhost:1313/posts/aem-content-aware-renditions/</guid>
+      <description>&lt;p&gt;Asset renditions are an important piece of the DAM in Adobe Experience Manager. Out of the box, AEM creates a few renditions for each asset that is uploaded. These can be used for different viewports and devices or as thumbnails. However, what if we wanted to create a blurred or grayscale rendition for an asset? These are some simple use cases, but with Adobe’s &lt;a href=&#34;https://experienceleague.adobe.com/docs/asset-compute/using/introduction.html#:~:text=Asset%20Compute%20Service%20is%20a,text%20and%20metadata%2C%20and%20archives.&#34;&gt;asset compute service&lt;/a&gt;, we can extend the out of the box functionality to handle them and go even further to implement more complex scenarios.&lt;/p&gt;</description>
     </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>As far back as I can remember, I&amp;rsquo;ve always been interested in creating experiences on the web. When I was in high school, I took a media communications class and decided to make a website for an assignment. I loved the idea of creating something that people could see, interact with and use online. I remember using Adobe Dreamweaver and using layers to visually drag and drop elements on a page (not knowing that this was positioning everything absolutely) and it would break outside of that specific screen size.</description>
-    </item>
-    
   </channel>
 </rss>

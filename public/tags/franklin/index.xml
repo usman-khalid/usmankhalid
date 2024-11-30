@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Franklin on Usman Khalid</title>
+    <link>//localhost:1313/tags/franklin/</link>
+    <description>Recent content in Franklin on Usman Khalid</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/franklin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AEM Franklin — creating a simple custom accordion block</title>
+      <link>//localhost:1313/posts/aem-franklin-simple-custom-accordion-block/</link>
+      <pubDate>Tue, 11 Apr 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/aem-franklin-simple-custom-accordion-block/</guid>
+      <description>&lt;h2 id=&#34;what-is-franklin&#34;&gt;What is Franklin?&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://www.hlx.live/home&#34;&gt;AEM Franklin&lt;/a&gt; is a new product by Adobe, still in an early beta stage. It&amp;rsquo;s marketed as a lightweight framework, providing the ability to create sites that are fast, quick to set up with an interesting and easy way to author content via Google docs.&lt;/p&gt;&#xA;&lt;p&gt;AEM Franklin uses the concept of &lt;em&gt;blocks&lt;/em&gt; which is the equivalent of components in this lightweight framework. A block is simply a reusable piece that can be used across the website on different pages.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

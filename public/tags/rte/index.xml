@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RTE on Usman Khalid</title>
+    <link>//localhost:1313/tags/rte/</link>
+    <description>Recent content in RTE on Usman Khalid</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/rte/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Integrating a typing assistant with AEM to provide grammar suggestions during content creation</title>
+      <link>//localhost:1313/posts/aem-rte-grammarly-integration/</link>
+      <pubDate>Mon, 16 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/aem-rte-grammarly-integration/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.grammarly.com/grammar-check&#34;&gt;Grammarly&lt;/a&gt; is a service that hooks up to an &lt;code&gt;input&lt;/code&gt; or &lt;code&gt;textarea&lt;/code&gt; on a page and provides suggestions on the content&amp;rsquo;s grammar. This makes for a neat little integration with the AEM Text/RTE component. This can be added on to the &lt;a href=&#34;https://experienceleague.adobe.com/docs/experience-manager-core-components/using/wcm-components/text.html&#34;&gt;WCM Core Text component&lt;/a&gt; or any component that uses an RTE.&lt;/p&gt;&#xA;&lt;h2 id=&#34;create-the-editor-clientlib&#34;&gt;Create the editor clientlib&lt;/h2&gt;&#xA;&lt;p&gt;First thing we need is a clientlib we can load into the AEM page editor.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

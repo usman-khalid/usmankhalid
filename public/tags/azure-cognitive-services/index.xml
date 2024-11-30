@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure Cognitive Services on Usman Khalid</title>
+    <link>//localhost:1313/tags/azure-cognitive-services/</link>
+    <description>Recent content in Azure Cognitive Services on Usman Khalid</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/azure-cognitive-services/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creating content aware renditions for AEM assets using Asset Compute Service &amp; Azure Cognitive Services</title>
+      <link>//localhost:1313/posts/aem-content-aware-renditions/</link>
+      <pubDate>Thu, 12 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/aem-content-aware-renditions/</guid>
+      <description>&lt;p&gt;Asset renditions are an important piece of the DAM in Adobe Experience Manager. Out of the box, AEM creates a few renditions for each asset that is uploaded. These can be used for different viewports and devices or as thumbnails. However, what if we wanted to create a blurred or grayscale rendition for an asset? These are some simple use cases, but with Adobe’s &lt;a href=&#34;https://experienceleague.adobe.com/docs/asset-compute/using/introduction.html#:~:text=Asset%20Compute%20Service%20is%20a,text%20and%20metadata%2C%20and%20archives.&#34;&gt;asset compute service&lt;/a&gt;, we can extend the out of the box functionality to handle them and go even further to implement more complex scenarios.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
