@@ -47,10 +47,6 @@
     <loc>//localhost:1313/posts/</loc>
     <lastmod>2019-02-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/about/</loc>
-  </url><url>
     <loc>//localhost:1313/categories/</loc>
-  </url><url>
-    <loc>//localhost:1313/pages/</loc>
   </url>
 </urlset>
